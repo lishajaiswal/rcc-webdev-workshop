@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+.flex-container {
+   display: flex;
+   align-items: baseline;
+}
+
+.flex-box{
+    width: 40px;
+    margin: 20px;
+    background-color: blueviolet;
+}
+.flex-box-1{
+    
+    height: 100px;
+}
+.flex-box-2{
+    height: 150px;
+}
+.flex-box-2{
+    height: 150px;
+}
+.flex-box-3{
+    height: 200px;
+}
+.flex-box-4{
+    height: 45px;
+}
+.flex-box-5{
+    height: 70px;
+}

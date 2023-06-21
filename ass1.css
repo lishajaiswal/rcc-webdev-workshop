@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ink Free';
+    box-sizing: border-box;
+    color: aliceblue;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+.flex-box{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100px;
+    padding: 30px;
+    height: max-content;
+    margin: 30px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    border: 2px double green
+       
+}
+.f-5{
+    width:200px ;
+}
+.f-6{
+    width:200px ;
+}
+.f-7{
+    width:200px ;
+}
+.f-8{
+    width:200px ;
+}
+.f-9{
+    width:200px ;
+}
+.f-10{
+    width:200px ;
+}
